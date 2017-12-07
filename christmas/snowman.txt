@@ -1,0 +1,10 @@
+Name	Mr. Snowman
+AC	27
+HP	225
+Init	2
+Fort	16
+Refl	7
+Will	8
+Weapon	Slam,17,3,8,7,20,2
+Weapon	Slam,17,3,8,7,20,2
+Weapon	Broomstick,19,2,8,6,19,2
