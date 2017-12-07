@@ -9,6 +9,7 @@
 # opens 1 window for each text file/monster.
 #
 # For more info, see the User's Manual:
+# https://github.com/komaranna/DeputyMaster/blob/master/manual.pdf
 #################################################################
 
 import random # random number generators
