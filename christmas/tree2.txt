@@ -1,0 +1,10 @@
+Name	Christmas Tree 2
+AC	21
+HP	59
+Init	-1
+Fort	10
+Refl	2
+Will	4
+Weapon	Slam,14,3,6,4,20,2
+Weapon	Slam,14,3,6,4,20,2
+Weapon	Whirlwind,12,3,10,4,20,2
